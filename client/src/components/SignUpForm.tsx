@@ -101,14 +101,6 @@ export default () => <>
                 <input name="name" />
             </div>
             <div className="input">
-                <label>Sobrenome</label>
-                <input name="name" />
-            </div>
-            <div className="input">
-                <label>Nome de usuário</label>
-                <input name="user" />
-            </div>
-            <div className="input">
                 <label>E-mail</label>
                 <input name="addres" />
             </div>

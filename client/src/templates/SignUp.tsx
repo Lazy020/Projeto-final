@@ -2,7 +2,7 @@ import { styled } from "styled-components";
 import SignUpForm from "../components/SignUpForm";
 
 const Container = styled.div`
-    background-color: #435865;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYelMSuCfpqq-NBD5bnC7FzMcLLgsuBxePig&usqp=CAU);
     height: 100vh;
     display: grid;
     place-content: center;
@@ -11,7 +11,7 @@ const Container = styled.div`
 
     &::after {
         content: " ";
-        background-color: #243238;
+        background-color: #55154a;
         width: 90%;
         height: 100%;
         position: absolute;
